@@ -1,0 +1,6 @@
+2. Matnli faylda nechta ―a‖ va ―.‖ qatnashayotganligini aniqlovchi dastur 
+tuzing. 
+Kiruvchi Chiquvchi 
+Mana senga olam olam gul. 		5 1 
+.Toshkent O`zbekiston poytaxti. 	1 2 
+Mening Malibu rusumli mashinam bor.     3 1
